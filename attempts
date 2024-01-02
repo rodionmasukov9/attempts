@@ -1,0 +1,4 @@
+  } else {
+                attempts--;
+                if (attempts > 0) {
+                    System.out.println("Incorrect. You have " + attempts + " attempts left.");
